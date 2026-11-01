@@ -18,7 +18,7 @@ CodeAlpha Backend Development Internship (Task 4).
 
 ## Project structure
 ```
-CodeAlpha_JobBoard/
+JobBoard/
 ├── manage.py
 ├── requirements.txt
 ├── config/                  # settings, root urls, wsgi
