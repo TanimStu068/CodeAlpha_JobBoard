@@ -1,5 +1,3 @@
-# CodeAlpha_JobBoard
-
 Job Board Platform built with **Django** and **Django REST Framework** for the
 CodeAlpha Backend Development Internship (Task 4).
 
